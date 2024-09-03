@@ -8,3 +8,6 @@ Makefile.in
 .deps
 .*.swp
 tags
+Maverick Model 3D.app
+build
+build-wasm

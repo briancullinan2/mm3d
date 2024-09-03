@@ -20,6 +20,7 @@
  *  See the COPYING file for full license text.
  */
 
+#include <GL/gl.h>
 
 #include "paintwidget.h"
 #include "texwidget.h"
